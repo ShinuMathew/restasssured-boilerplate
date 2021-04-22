@@ -1,0 +1,15 @@
+/node_modules/
+/target/
+/.settings
+/test-output/
+/logs/
+/screenshots/
+/.classpath
+/drivers/mac/chromedriver
+/drivers/linux/chromedriver
+/bin/
+/.idea
+/.apt_generated/
+/.apt_generated_tests/
+.factorypath
+/.vscode/
