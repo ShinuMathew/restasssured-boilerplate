@@ -11,7 +11,7 @@
 8. Maven build tool
 9. Selenium 4 integration
 10. Docker integration
-11. Parallelisation
+11. Parallelisation - TestNG and Executor service
 12. Jenkins and AWS integration
 13. S3 for report
 14. Hibernate ORM for Postgres and MongoDB
@@ -21,6 +21,14 @@
 * JWT and OAuth authentication
 * NGINX webserver
 * Linode/DigitalOceans deployment
+
+## Base
+* Seperate project base. 
+* Deploy taf framework to S3
+* Include cucumber
+* Include ES reporting
+* Include static html report - Bootstrap template
+* Redis and RMQ integration
 
 ### Phase 2:
 * Drag and drop SPA for test suite and case creationg using Jquery/ReactJS and Node
