@@ -15,6 +15,7 @@
 12. Jenkins and AWS integration
 13. S3 for report
 14. Hibernate ORM for Postgres and MongoDB
+15. Protobuffs for JSON parsing
 
 ## Test Microservice:
 * SpringBoot and Hibernate microservice for test
