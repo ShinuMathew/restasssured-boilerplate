@@ -16,6 +16,7 @@
 13. S3 for report
 14. Hibernate ORM for Postgres and MongoDB
 15. Protobuffs for JSON parsing
+16. Docker parallelisation and K8's orchestration for selenium grid and APi tests
 
 ## Test Microservice:
 * SpringBoot and Hibernate microservice for test
